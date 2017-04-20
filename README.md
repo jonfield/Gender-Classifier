@@ -4,9 +4,9 @@ Use ML to classify genders given [height, weight, shoe_size]
 
 ### Dependencies 
 
-Scikit-learn
-scipy
-numpy
+Scikit-learn\n
+scipy\n
+numpy\n
 Python 3.x
 
 ### Usage 
