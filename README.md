@@ -3,8 +3,8 @@
 Use scikit-learn library to classifiy genders given height, weight, and shoe size.
 
 ### Dependencies
-Scikit-Learn
-scipy
+Scikit-Learn,
+scipy,
 numpy
 
 ### Usage
